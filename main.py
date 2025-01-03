@@ -18,8 +18,8 @@ from mutation_prompt import mutation_prompt
 LLM_API = "****"
 LLM_MODEL = "***"
 
-# LLM_API = "http://111.13.172.45:8000/v1"
-# LLM_MODEL = "Qwen72B"
+# LLM_API = "***"
+# LLM_MODEL = "***"
 
 LLM_KEY = "***"
 EMBEDDING_API = '***'
