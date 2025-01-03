@@ -1,0 +1,1222 @@
+2024-12-26 17:47:04,030 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:47:04,030 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:04,153 - LongPrompt - INFO - responce
+Which sentence has the correct order of adjectives:
+2024-12-26 17:47:04,153 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:09,740 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:47:09,740 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:09,874 - LongPrompt - INFO - responce
+Which sentence has the correct order for its adjectives:
+2024-12-26 17:47:09,874 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:15,356 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:47:15,356 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:15,467 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:47:15,467 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:20,224 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:47:20,224 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:20,348 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order:
+2024-12-26 17:47:20,348 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:25,458 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:47:25,458 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:25,627 - LongPrompt - INFO - responce
+Order adjectives correctly in English sentences.
+2024-12-26 17:47:25,627 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:30,485 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:47:30,485 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:30,610 - LongPrompt - INFO - responce
+Which sentence uses the adjectives in the correct order?
+2024-12-26 17:47:30,610 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:36,135 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:47:36,136 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence uses the adjectives in the correct order?
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:36,266 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order?
+2024-12-26 17:47:36,266 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:41,845 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:47:41,845 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives in the correct order?
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:41,956 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:47:41,956 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:47,192 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:47:47,192 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives ordered correctly?
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:47,297 - LongPrompt - INFO - responce
+Which sentence correctly orders the adjectives?
+2024-12-26 17:47:47,297 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:52,729 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:47:52,729 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:52,877 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:47:52,877 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:47:57,684 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:47:57,684 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:47:57,820 - LongPrompt - INFO - responce
+Which sentence has the correct order of adjectives:
+2024-12-26 17:47:57,820 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:02,576 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:02,577 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:02,690 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:48:02,690 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:08,355 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:08,355 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:08,474 - LongPrompt - INFO - responce
+Which sentence has adjectives in the correct order:
+2024-12-26 17:48:08,474 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:13,673 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:13,673 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:13,820 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:48:13,821 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:18,609 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:48:18,609 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:18,733 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order?
+2024-12-26 17:48:18,733 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:24,031 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:24,031 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives in the correct order?
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:24,145 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:48:24,145 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:28,576 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:28,576 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:28,685 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:48:28,685 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:33,472 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:48:33,472 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:33,578 - LongPrompt - INFO - responce
+Which sentence correctly orders the adjectives:
+2024-12-26 17:48:33,578 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:38,990 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+Which sentence has the adjectives in the correct order?
+</rephrased>
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+Which sentence has the correct order of adjectives:
+</rephrased>
+
+
+2024-12-26 17:48:38,990 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence correctly orders the adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:39,099 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:48:39,100 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:43,700 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+Which sentence has the correct order of adjectives:
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:43,700 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives ordered correctly?
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:43,811 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:48:43,811 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:48,346 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:48:48,346 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives ordered correctly?
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:48,449 - LongPrompt - INFO - responce
+Which sentence correctly orders the adjectives?
+2024-12-26 17:48:48,450 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:53,008 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:48:53,009 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:53,115 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:48:53,116 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:48:57,709 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:48:57,709 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:48:57,833 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order?
+2024-12-26 17:48:57,833 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:02,791 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:49:02,791 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives in the correct order?
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:02,898 - LongPrompt - INFO - responce
+Which sentence has the adjectives properly ordered?
+2024-12-26 17:49:02,898 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:08,498 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:49:08,498 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:08,610 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:49:08,610 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:13,339 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+Which sentence has the correct order of adjectives:
+</rephrased>
+
+
+2024-12-26 17:49:13,340 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:13,449 - LongPrompt - INFO - responce
+Order the adjectives correctly in English sentences.
+2024-12-26 17:49:13,450 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:19,251 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:49:19,251 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order for its adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:19,382 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order?
+2024-12-26 17:49:19,382 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:24,277 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:49:24,277 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:24,392 - LongPrompt - INFO - responce
+Properly arrange adjectives in English sentences.
+2024-12-26 17:49:24,392 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:29,961 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:49:29,961 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:30,084 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order?
+2024-12-26 17:49:30,084 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:34,683 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence has the correct order for its adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives in the correct order?
+</rephrased>
+
+
+2024-12-26 17:49:34,683 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:34,795 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:49:34,795 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:40,395 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Which sentence has the correct order for its adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives in the correct order?
+</rephrased>
+
+
+2024-12-26 17:49:40,395 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:40,509 - LongPrompt - INFO - responce
+Properly order adjectives in English sentences.
+2024-12-26 17:49:40,509 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:46,164 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Properly order adjectives in English sentences.
+</rephrased>
+
+
+2024-12-26 17:49:46,164 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:46,287 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order:
+2024-12-26 17:49:46,287 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:51,389 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:49:51,389 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:51,500 - LongPrompt - INFO - responce
+Properly arrange adjectives in English sentences.
+2024-12-26 17:49:51,500 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:49:57,089 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:49:57,089 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct adjective order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:49:57,211 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order:
+2024-12-26 17:49:57,211 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:02,114 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:50:02,114 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:02,224 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:50:02,224 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:06,870 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+<original>
+Which sentence has the correct order for its adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives in the correct order?
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:50:06,871 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:06,973 - LongPrompt - INFO - responce
+Order adjectives correctly in English sentences.
+2024-12-26 17:50:06,973 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:11,650 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:50:11,650 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:11,765 - LongPrompt - INFO - responce
+Properly order adjectives in English sentences.
+2024-12-26 17:50:11,765 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:17,350 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:50:17,350 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:17,469 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order:
+2024-12-26 17:50:17,469 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:22,086 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:50:22,086 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives in the correct order:
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:22,196 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:50:22,197 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:26,870 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:50:26,870 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives ordered correctly?
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:26,999 - LongPrompt - INFO - responce
+Which sentence has the adjectives arranged in the correct order?
+2024-12-26 17:50:26,999 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:32,417 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:50:32,417 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives arranged in the correct order?
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:32,526 - LongPrompt - INFO - responce
+Which sentence has the adjectives correctly ordered?
+2024-12-26 17:50:32,526 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:38,181 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:50:38,181 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives correctly ordered?
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:38,291 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:50:38,292 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:42,875 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:50:42,875 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives ordered correctly?
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:42,998 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered properly?
+2024-12-26 17:50:42,999 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:48,661 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Properly order adjectives in English sentences.
+</rephrased>
+
+
+2024-12-26 17:50:48,661 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the adjectives ordered properly?
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:48,770 - LongPrompt - INFO - responce
+Which sentence has the adjectives ordered correctly?
+2024-12-26 17:50:48,770 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:53,168 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+<original>
+Which sentence correctly orders the adjectives?
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:50:53,168 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:53,279 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:50:53,279 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:50:57,840 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence has the correct order for its adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives in the correct order?
+</rephrased>
+
+
+2024-12-26 17:50:57,840 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:50:57,942 - LongPrompt - INFO - responce
+Order adjectives correctly in English sentences.
+2024-12-26 17:50:57,943 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:51:02,623 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Which sentence has the correct order for its adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives in the correct order?
+</rephrased>
+<original>
+Which sentence correctly orders the adjectives:
+</original>
+<rephrased>
+Which sentence has the adjectives ordered correctly?
+</rephrased>
+
+
+2024-12-26 17:51:02,623 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:51:02,731 - LongPrompt - INFO - responce
+Correctly order adjectives in English sentences.
+2024-12-26 17:51:02,731 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:51:07,658 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:51:07,658 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:51:07,778 - LongPrompt - INFO - responce
+Order adjectives correctly in English sentences.
+2024-12-26 17:51:07,779 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:51:12,627 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Properly order adjectives in English sentences.
+</rephrased>
+<original>
+Correctly order adjectives in English sentences.
+</original>
+<rephrased>
+Order adjectives correctly in English sentences.
+</rephrased>
+
+
+2024-12-26 17:51:12,627 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Which sentence has the correct order of adjectives:
+</original>
+<rephrased>
+
+
+2024-12-26 17:51:12,749 - LongPrompt - INFO - responce
+Which sentence has the adjectives in the correct order:
+2024-12-26 17:51:12,749 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------
+2024-12-26 17:51:17,521 - LongPrompt - INFO - system prompt
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+2024-12-26 17:51:17,521 - LongPrompt - INFO - user prompt
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Order adjectives correctly in English sentences.
+</original>
+<rephrased>
+
+
+2024-12-26 17:51:17,631 - LongPrompt - INFO - responce
+Properly arrange adjectives in English sentences.
+2024-12-26 17:51:17,631 - LongPrompt - INFO - --------------------------------------------------------------------------------------------------------------

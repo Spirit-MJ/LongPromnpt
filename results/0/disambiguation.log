@@ -1,0 +1,1828 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey will plan to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but the secretary hasn't replied yet.
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief told the counselor that they took the day off from work.
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off from work.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+
+ 
+ responce:
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the office of the director.
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that have ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that have ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that contain potentially ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the office of the director.
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but the secretary hasn't replied yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but no reply has been received yet.
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off from work.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off from work.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but no reply has been received yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary hasn't replied yet.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that contain potentially ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that have ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey will plan to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off from work.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that could contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that contain potentially ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that have ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that could contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off from work.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+
+ 
+ responce:
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state if it is ambiguous.
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but no reply has been received yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary hasn't replied yet.
+</rephrased>
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the office of the director.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that might contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences with potentially ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that might contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that potentially contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that could contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that potentially contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify sentences that might contain ambiguous pronouns.
+</original>
+<rephrased>
+Clarify sentences that may contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify sentences that may contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify sentences that may contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------

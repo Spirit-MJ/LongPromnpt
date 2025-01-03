@@ -1,0 +1,1578 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</original>
+<rephrased>
+
+ 
+ responce:
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+
+ 
+ responce:
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+</original>
+<rephrased>
+
+ 
+ responce:
+Is the argument deductively valid, considering the explicitly stated premises?
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+
+ 
+ responce:
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+
+ 
+ responce:
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to ascertain the connections between people and the nature of those connections.
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+</original>
+<rephrased>
+
+ 
+ responce:
+Is the argument, based on the explicitly stated premises, deductively valid or invalid?
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+
+ 
+ responce:
+It is not always easy to identify the relationships between individuals and understand their nature.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to identify the relationships between individuals and understand their nature.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine the relationships between individuals and understand their nature.
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+
+ 
+ responce:
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, possibly both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify deductively valid arguments and recognize formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</original>
+<rephrased>
+
+ 
+ responce:
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to grasp who is consuming which products.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and recognize formal fallacies.
+</rephrased>
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to ascertain the connections between people and the nature of those connections.
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and recognize formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Distinguish deductively valid arguments from formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to identify the relationships between individuals and understand their nature.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to determine the relationships between individuals and understand their nature.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine and understand the relationships between individuals and their nature.
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+It is not always easy to identify the relationships between individuals and understand their nature.
+</original>
+<rephrased>
+It can be challenging to determine the relationships between individuals and understand their nature.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to determine and understand the relationships between individuals and their nature.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to grasp who is consuming which products.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine which products are being consumed by which individuals.
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</original>
+<rephrased>
+
+ 
+ responce:
+First, Lesley is a close friend of Fernando. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and recognize formal fallacies.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify deductively valid arguments and differentiate them from formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and recognize formal fallacies.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and differentiate them from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Distinguish deductively valid arguments from formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and recognize formal fallacies.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and differentiate them from formal fallacies.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify deductively valid arguments by distinguishing them from formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and their nature.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+It is not always easy to identify the relationships between individuals and understand their nature.
+</original>
+<rephrased>
+It can be challenging to determine the relationships between individuals and understand their nature.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine and understand the relationships between individuals and their nature.
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+<original>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and their nature.
+</rephrased>
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to grasp who is consuming which products.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine which products are being consumed by which individuals.
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. If being an ancestor of Dana is enough to not be a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, possibly both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify deductively valid arguments and detect formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, possibly both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+Identify deductively valid arguments by distinguishing them from formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana implies one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+<original>
+Identify deductively valid arguments by distinguishing them from formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+<original>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Distinguish deductively valid arguments from formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+<original>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.
+</original>
+<rephrased>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</rephrased>
+<original>
+Is the argument, based on the explicitly stated premises, deductively valid or invalid?
+</original>
+<rephrased>
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine the connections between people and the nature of those connections.
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to identify the relationships between individuals and understand their nature.
+</original>
+<rephrased>
+It can be challenging to determine the relationships between individuals and understand their nature.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and their nature.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to determine the connections between people and the nature of those connections.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine and understand the connections between people and their nature.
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to determine and understand the connections between people and their nature.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to establish and understand the relationships between people and their nature.
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and detect formal fallacies.
+</rephrased>
+<original>
+It can be challenging to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and differentiate them from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It can be challenging to establish and understand the relationships between people and their nature.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be challenging to determine and comprehend the connections between individuals and their nature.
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</original>
+<rephrased>
+Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.
+</rephrased>
+<original>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, anyone who is an ancestor of Dana is also a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</original>
+<rephrased>
+First, Lesley is a close friend of Fernando. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</rephrased>
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+Distinguish deductively valid arguments from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, anyone who is an ancestor of Dana is also a stepbrother of Brian.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana means one is not a great-grandfather of Clyde. Thus, anyone who is an ancestor of Dana is also a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to grasp who is consuming which products.
+</original>
+<rephrased>
+
+ 
+ responce:
+It is often difficult to determine which products are being consumed by which individuals.
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be difficult to establish and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</rephrased>
+<original>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Since being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</original>
+<rephrased>
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. If being an ancestor of Dana means one is not a great-grandfather of Clyde, we can conclude that everyone who is an ancestor of Dana is a stepbrother of Brian.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.
+</original>
+<rephrased>
+
+ 
+ responce:
+If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana means one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and their nature.
+</rephrased>
+<original>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to ascertain the connections between people and the nature of those connections.
+</rephrased>
+<original>
+Distinguish deductively valid arguments from formal fallacies.
+</original>
+<rephrased>
+Identify deductively valid arguments and differentiate them from formal fallacies.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify deductively valid arguments and recognize formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify deductively valid arguments and detect formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Is the argument, based on the explicitly stated premises, deductively valid or invalid?
+</original>
+<rephrased>
+Is the argument, given the explicitly stated premises, deductively valid or invalid?
+</rephrased>
+<original>
+It can be challenging to determine and understand the relationships between individuals and the nature of those relationships.
+</original>
+<rephrased>
+It can be challenging to determine and understand the relationships between individuals and their nature.
+</rephrased>
+<original>
+It is not always easy to see who is related to whom -- and in which ways. 
+</original>
+<rephrased>
+It is not always easy to determine the relationships between individuals and the nature of those relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify deductively valid arguments and detect formal fallacies.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify deductively valid arguments and recognize formal fallacies.
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+<original>
+First, Lesley is Fernando's close friend. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</original>
+<rephrased>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</rephrased>
+<original>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</original>
+<rephrased>
+First, Lesley is a close friend of Fernando. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.
+</original>
+<rephrased>
+
+ 
+ responce:
+First, Lesley is a close friend of Fernando. Additionally, being Fernando's close friend or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+It can sometimes be difficult to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+<original>
+It can be challenging to determine which products are being consumed by which individuals.
+</original>
+<rephrased>
+It is not always easy to grasp who is consuming which products.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+It is not always easy to grasp who is consuming which products.
+</original>
+<rephrased>
+
+ 
+ responce:
+It can be difficult to determine which products are being consumed by which individuals.
+--------------------------------------------------------------------------------------------------------------

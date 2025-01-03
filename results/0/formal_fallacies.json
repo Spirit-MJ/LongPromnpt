@@ -1,0 +1,612 @@
+{
+    "prompt": [
+        {
+            "Epoch": 0,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 1,
+            "prompt": "Identify deductively valid arguments and distinguish them from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 2,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 3,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Lesley is a close friend of Fernando. Being a close friend of Fernando or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 4,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 5,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana means one is not a great-grandfather of Clyde. Thus, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6031746031746031,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 6,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine which products are being consumed by which individuals. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 7,
+            "prompt": "Identify deductively valid arguments and distinguish them from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to identify which products individual consumers are using. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 8,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine relationships and the nature of those relationships. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine relationships and the nature of those relationships. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 9,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine which products are being consumed by which individuals. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 10,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to identify relationships and understand their nature. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to identify relationships and understand their nature. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 11,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument logically valid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument logically valid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument logically valid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 12,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and the nature of those relationships. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and the nature of those relationships. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 13,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships between individuals and the nature of these connections. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships between individuals and the nature of these connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 14,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 15,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 16,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine which products are being consumed by which individuals. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 17,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to discern the relationships and how they are connected. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to discern the relationships and how they are connected. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 18,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to identify and understand the relationships and how they are interconnected. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to identify and understand the relationships and how they are interconnected. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 19,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand how relationships are interconnected. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand how relationships are interconnected. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 20,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to identify and understand how relationships are interconnected. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to identify and understand how relationships are interconnected. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 21,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the interconnected nature of relationships. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the interconnected nature of relationships. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 22,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Here is a rephrased version of the sentence for improved clarity and ease of understanding for language models:\n\n<rephrased>\nLesley is Fernando's close friend. Additionally, being a close friend of Fernando or a schoolmate of Lowell is enough to be considered a great-grandfather of Leroy. Therefore, Lesley is a great-grandfather of Leroy.\n</rephrased>\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 23,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 24,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Consequently, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 25,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to determine who is related to whom and the nature of those relationships. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to determine who is related to whom and the nature of those relationships. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 26,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify the relationships and their性质或类型 between individuals. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify the relationships and their性质或类型 between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 27,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships between individuals and the nature of these connections. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships between individuals and the nature of these connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine which products are being consumed by which individuals. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 28,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine and understand the relationships between individuals and the nature of those connections. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine and understand the relationships between individuals and the nature of those connections. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 29,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of these connections. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of these connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6129032258064516
+        },
+        {
+            "Epoch": 30,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the nature of these relationships. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the nature of these relationships. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 31,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to discern relationships and understand the nature of the connections between individuals. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to discern relationships and understand the nature of the connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 32,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to identify and understand the relationships and the nature of the connections among individuals. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to identify and understand the relationships and the nature of the connections among individuals. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 33,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships and the nature of the connections between individuals. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships and the nature of the connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 34,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships and types of connections between individuals. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships and types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 35,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 36,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine relationships and understand the types of connections between individuals. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine relationships and understand the types of connections between individuals. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 37,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the nature of these relationships. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the nature of these relationships. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine which products are being consumed by which individuals. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 38,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6129032258064516
+        },
+        {
+            "Epoch": 39,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine the relationships and how they are connected. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine the relationships and how they are connected. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 40,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6507936507936508,
+            "test_set_score": 0.6129032258064516
+        },
+        {
+            "Epoch": 41,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 42,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be difficult to determine and comprehend the relationships between individuals and the nature of these connections. The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be difficult to determine and comprehend the relationships between individuals and the nature of these connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 43,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 44,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to identify and understand the relationships among individuals and the nature of those connections. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 45,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is also a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6129032258064516
+        },
+        {
+            "Epoch": 46,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument logically valid or invalid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument logically valid or invalid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument logically valid or invalid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6290322580645161
+        },
+        {
+            "Epoch": 47,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument logically valid or invalid given the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument logically valid or invalid given the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument logically valid or invalid given the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 48,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument deductively valid or invalid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and to understand the types of connections between individuals. The following argument pertains to this question: If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument deductively valid or invalid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument deductively valid or invalid based on the explicitly stated premises?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 49,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to see who is related to whom -- and in which ways.  The following argument pertains to this question: If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: An infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6209677419354839
+        },
+        {
+            "Epoch": 50,
+            "prompt": "Distinguish deductively valid arguments from formal fallacies.\n\nQ: It can be challenging to determine who is related to whom and the nature of these relationships. The following argument pertains to this question: Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It can be challenging to determine who is related to whom and the nature of these relationships. The following argument pertains to this question: Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: valid\n\nQ: It is not always easy to grasp who is consuming which products. The following argument pertains to this question: Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.\nIs the argument, given the explicitly stated premises, deductively valid or invalid?\nOptions:\n- valid\n- invalid\nA: invalid\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6209677419354839
+        }
+    ],
+    "sentence_mutation": [
+        {
+            "Epoch": 1,
+            "before": "Distinguish deductively valid arguments from formal fallacies.",
+            "after": "Identify deductively valid arguments and distinguish them from formal fallacies.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 2,
+            "before": "Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.",
+            "after": "Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 3,
+            "before": "To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.",
+            "after": "Lesley is a close friend of Fernando. Being a close friend of Fernando or a schoolmate of Lowell is enough to be Leroy's great-grandfather. Therefore, Lesley is Leroy's great-grandfather.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 4,
+            "before": "Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.",
+            "after": "If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": 0.031746031746031744
+        },
+        {
+            "Epoch": 5,
+            "before": "If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana implies that one is not a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "after": "If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana means one is not a great-grandfather of Clyde. Thus, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": -0.039682539682539764
+        },
+        {
+            "Epoch": 6,
+            "before": "It is not always easy to grasp who is consuming which products.",
+            "after": "It can be challenging to determine which products are being consumed by which individuals.",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 7,
+            "before": "It can be challenging to determine which products are being consumed by which individuals.",
+            "after": "It can be difficult to identify which products individual consumers are using.",
+            "score_change": -0.015873015873015817
+        },
+        {
+            "Epoch": 8,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be challenging to determine relationships and the nature of those relationships.",
+            "score_change": 0.023809523809523725
+        },
+        {
+            "Epoch": 9,
+            "before": "It is not always easy to grasp who is consuming which products.",
+            "after": "It can be challenging to determine which products are being consumed by which individuals.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 10,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be difficult to identify relationships and understand their nature.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 11,
+            "before": "Is the argument, given the explicitly stated premises, deductively valid or invalid?",
+            "after": "Is the argument logically valid based on the explicitly stated premises?",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 12,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be challenging to determine who is related to whom and the nature of those relationships.",
+            "score_change": 0.015873015873015817
+        },
+        {
+            "Epoch": 13,
+            "before": "It can be challenging to determine who is related to whom and the nature of those relationships.",
+            "after": "It can be challenging to identify and understand the relationships between individuals and the nature of these connections.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 14,
+            "before": "It can be challenging to identify and understand the relationships between individuals and the nature of these connections.",
+            "after": "It can be challenging to identify and understand the relationships among individuals and the nature of those connections.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 15,
+            "before": "Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.",
+            "after": "If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 16,
+            "before": "It is not always easy to grasp who is consuming which products.",
+            "after": "It can be challenging to determine which products are being consumed by which individuals.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 17,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be difficult to discern the relationships and how they are connected.",
+            "score_change": -0.015873015873015817
+        },
+        {
+            "Epoch": 18,
+            "before": "It can be difficult to discern the relationships and how they are connected.",
+            "after": "It can be difficult to identify and understand the relationships and how they are interconnected.",
+            "score_change": 0.023809523809523725
+        },
+        {
+            "Epoch": 19,
+            "before": "It can be difficult to identify and understand the relationships and how they are interconnected.",
+            "after": "It can be challenging to identify and understand how relationships are interconnected.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 20,
+            "before": "It can be challenging to identify and understand how relationships are interconnected.",
+            "after": "It can be difficult to identify and understand how relationships are interconnected.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 21,
+            "before": "It can be difficult to identify and understand how relationships are interconnected.",
+            "after": "It can be challenging to identify and understand the interconnected nature of relationships.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 22,
+            "before": "To begin with, Lesley is a close friend of Fernando.   Moreover, being a close friend of Fernando or a schoolmate of Lowell is sufficient for being a great-grandfather of Leroy.   It follows that Lesley is a great-grandfather of Leroy.",
+            "after": "Here is a rephrased version of the sentence for improved clarity and ease of understanding for language models:\n\n<rephrased>\nLesley is Fernando's close friend. Additionally, being a close friend of Fernando or a schoolmate of Lowell is enough to be considered a great-grandfather of Leroy. Therefore, Lesley is a great-grandfather of Leroy.\n",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 23,
+            "before": "Here is a rephrased version of the sentence for improved clarity and ease of understanding for language models:\n\n<rephrased>\nLesley is Fernando's close friend. Additionally, being a close friend of Fernando or a schoolmate of Lowell is enough to be considered a great-grandfather of Leroy. Therefore, Lesley is a great-grandfather of Leroy.\n</rephrased>",
+            "after": "Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 24,
+            "before": "Lesley is Fernando's close friend. Additionally, someone is considered a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Therefore, Lesley is a great-grandfather of Leroy.",
+            "after": "Lesley is Fernando's close friend. Additionally, someone is a great-grandfather of Leroy if they are either a close friend of Fernando or a schoolmate of Lowell. Consequently, Lesley is a great-grandfather of Leroy.",
+            "score_change": -0.023809523809523836
+        },
+        {
+            "Epoch": 25,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be difficult to determine who is related to whom and the nature of those relationships.",
+            "score_change": 0.015873015873015817
+        },
+        {
+            "Epoch": 26,
+            "before": "It can be difficult to determine who is related to whom and the nature of those relationships.",
+            "after": "It can be challenging to identify the relationships and their性质或类型 between individuals.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 27,
+            "before": "It is not always easy to grasp who is consuming which products.",
+            "after": "It can be challenging to determine which products are being consumed by which individuals.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 28,
+            "before": "It can be challenging to identify and understand the relationships between individuals and the nature of these connections.",
+            "after": "It can be challenging to determine and understand the relationships between individuals and the nature of those connections.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 29,
+            "before": "It can be challenging to determine and understand the relationships between individuals and the nature of those connections.",
+            "after": "It can be challenging to identify and understand the relationships among individuals and the nature of these connections.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 30,
+            "before": "It can be challenging to identify and understand the relationships among individuals and the nature of these connections.",
+            "after": "It can be challenging to determine who is related to whom and to understand the nature of these relationships.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 31,
+            "before": "It can be challenging to determine who is related to whom and to understand the nature of these relationships.",
+            "after": "It can be challenging to discern relationships and understand the nature of the connections between individuals.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 32,
+            "before": "It can be challenging to discern relationships and understand the nature of the connections between individuals.",
+            "after": "It can be difficult to identify and understand the relationships and the nature of the connections among individuals.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 33,
+            "before": "It can be difficult to identify and understand the relationships and the nature of the connections among individuals.",
+            "after": "It can be challenging to identify and understand the relationships and the nature of the connections between individuals.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 34,
+            "before": "It can be challenging to identify and understand the relationships and the nature of the connections between individuals.",
+            "after": "It can be challenging to identify and understand the relationships and types of connections between individuals.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 35,
+            "before": "It can be challenging to identify and understand the relationships and types of connections between individuals.",
+            "after": "It can be challenging to determine who is related to whom and to understand the types of connections between individuals.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 36,
+            "before": "It can be challenging to determine who is related to whom and to understand the types of connections between individuals.",
+            "after": "It can be challenging to determine relationships and understand the types of connections between individuals.",
+            "score_change": -0.023809523809523836
+        },
+        {
+            "Epoch": 37,
+            "before": "It is not always easy to grasp who is consuming which products.",
+            "after": "It can be challenging to determine which products are being consumed by which individuals.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 38,
+            "before": "Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.",
+            "after": "If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": 0.031746031746031744
+        },
+        {
+            "Epoch": 39,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be challenging to determine the relationships and how they are connected.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 40,
+            "before": "Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.",
+            "after": "If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 41,
+            "before": "If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is sufficient to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "after": "If someone is not a great-grandfather of Clyde, they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": -0.023809523809523836
+        },
+        {
+            "Epoch": 42,
+            "before": "It can be challenging to identify and understand the relationships among individuals and the nature of those connections.",
+            "after": "It can be difficult to determine and comprehend the relationships between individuals and the nature of these connections.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 43,
+            "before": "Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.",
+            "after": "If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is a stepbrother of Brian.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 44,
+            "before": "It is not always easy to grasp who is consuming which products.",
+            "after": "It can be challenging to determine who is consuming which products.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 45,
+            "before": "Whoever is not a great-grandfather of Clyde is a stepbrother of Brian.   Being an ancestor of Dana is sufficient for not being a great-grandfather of Clyde.   We may conclude: Everyone who is an ancestor of Dana is a stepbrother of Brian, too.",
+            "after": "If someone is not a great-grandfather of Clyde, then they are a stepbrother of Brian. Being an ancestor of Dana is enough to not be a great-grandfather of Clyde. Therefore, everyone who is an ancestor of Dana is also a stepbrother of Brian.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 46,
+            "before": "Is the argument, given the explicitly stated premises, deductively valid or invalid?",
+            "after": "Is the argument logically valid or invalid based on the explicitly stated premises?",
+            "score_change": -0.015873015873015817
+        },
+        {
+            "Epoch": 47,
+            "before": "Is the argument logically valid or invalid based on the explicitly stated premises?",
+            "after": "Is the argument logically valid or invalid given the explicitly stated premises?",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 48,
+            "before": "Is the argument logically valid or invalid given the explicitly stated premises?",
+            "after": "Is the argument deductively valid or invalid based on the explicitly stated premises?",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 49,
+            "before": "Every infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both.   No regular consumer of Lush soap is a rare consumer of Nioxin shampoo and, in the same time, a loyal buyer of Caress soap.   It follows that whoever is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.",
+            "after": "An infrequent user of Paul Mitchell shampoo is either a rare consumer of Nioxin shampoo or a loyal buyer of Caress soap, or both. No regular consumer of Lush soap is both a rare consumer of Nioxin shampoo and a loyal buyer of Caress soap. Therefore, anyone who is an infrequent user of Paul Mitchell shampoo is not a regular consumer of Lush soap.",
+            "score_change": -0.015873015873015817
+        },
+        {
+            "Epoch": 50,
+            "before": "It is not always easy to see who is related to whom -- and in which ways. ",
+            "after": "It can be challenging to determine who is related to whom and the nature of these relationships.",
+            "score_change": 0.023809523809523836
+        }
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "prompt": [
+        {
+            "Epoch": 0,
+            "prompt": "Order adjectives correctly in English sentences.\n\nQ: Which sentence has the correct adjective order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has the correct adjective order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has the correct adjective order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5241935483870968
+        },
+        {
+            "Epoch": 1,
+            "prompt": "Order adjectives correctly in English sentences.\n\nQ: Which sentence has the correct order of adjectives:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has the correct order of adjectives:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has the correct order of adjectives:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5241935483870968
+        },
+        {
+            "Epoch": 2,
+            "prompt": "Order adjectives correctly in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.532258064516129
+        },
+        {
+            "Epoch": 3,
+            "prompt": "Order adjectives correctly in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.532258064516129
+        },
+        {
+            "Epoch": 4,
+            "prompt": "Properly arrange adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 5,
+            "prompt": "Order adjectives correctly in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.532258064516129
+        },
+        {
+            "Epoch": 6,
+            "prompt": "Properly arrange adjectives in English sentences.\n\nQ: Which sentence has the correct adjective order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has the correct adjective order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has the correct adjective order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 7,
+            "prompt": "Correctly order adjectives in English sentences.\n\nQ: Which sentence has the correct order of adjectives:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has the correct order of adjectives:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has the correct order of adjectives:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5241935483870968
+        },
+        {
+            "Epoch": 8,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 9,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 10,
+            "prompt": "Correctly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 11,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 12,
+            "prompt": "Properly arrange adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 13,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 14,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 15,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 16,
+            "prompt": "Correctly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 17,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 18,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 19,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 20,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 21,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 22,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 23,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 24,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 25,
+            "prompt": "Correctly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 26,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 27,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 28,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 29,
+            "prompt": "Correctly sequence adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 30,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 31,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 32,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 33,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 34,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 35,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 36,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 37,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 38,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 39,
+            "prompt": "Correctly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 40,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 41,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 42,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence features adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 43,
+            "prompt": "Properly arrange adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 44,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 45,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 46,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 47,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        },
+        {
+            "Epoch": 48,
+            "prompt": "Properly order adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 49,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence contains adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.5564516129032258
+        },
+        {
+            "Epoch": 50,
+            "prompt": "Properly sequence adjectives in English sentences.\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) rubber terrible ship\n(B) terrible rubber ship\nA: (B)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) repulsive small Brazilian exercise ship\n(B) Brazilian repulsive exercise small ship\nA: (A)\n\nQ: Which sentence has adjectives in the correct order:\nOptions:\n(A) blue gold wonderful square shoe\n(B) wonderful square blue gold shoe\nA: (B)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5483870967741935
+        }
+    ],
+    "sentence_mutation": [
+        {
+            "Epoch": 1,
+            "before": "Which sentence has the correct adjective order:",
+            "after": "Which sentence has the correct order of adjectives:",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 2,
+            "before": "Which sentence has the correct order of adjectives:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 3,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 4,
+            "before": "Order adjectives correctly in English sentences.",
+            "after": "Properly arrange adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 5,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence features adjectives in the correct order:",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 6,
+            "before": "Order adjectives correctly in English sentences.",
+            "after": "Properly arrange adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 7,
+            "before": "Properly arrange adjectives in English sentences.",
+            "after": "Correctly order adjectives in English sentences.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 8,
+            "before": "Correctly order adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.015873015873015817
+        },
+        {
+            "Epoch": 9,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 10,
+            "before": "Properly order adjectives in English sentences.",
+            "after": "Correctly sequence adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 11,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 12,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly arrange adjectives in English sentences.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 13,
+            "before": "Properly arrange adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 14,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 15,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence features adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 16,
+            "before": "Which sentence features adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 17,
+            "before": "Correctly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 18,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 19,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 20,
+            "before": "Properly order adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 21,
+            "before": "Which sentence features adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 22,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 23,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 24,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 25,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 26,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 27,
+            "before": "Properly order adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 28,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 29,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence features adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 30,
+            "before": "Correctly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 31,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 32,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 33,
+            "before": "Which sentence features adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 34,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 35,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 36,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 37,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 38,
+            "before": "Which sentence has adjectives in the correct order:",
+            "after": "Which sentence contains adjectives in the correct order:",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 39,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 40,
+            "before": "Correctly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 41,
+            "before": "Which sentence features adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 42,
+            "before": "Properly order adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 43,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly arrange adjectives in English sentences.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 44,
+            "before": "Properly arrange adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 45,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 46,
+            "before": "Properly order adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 47,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 48,
+            "before": "Properly sequence adjectives in English sentences.",
+            "after": "Properly order adjectives in English sentences.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 49,
+            "before": "Properly order adjectives in English sentences.",
+            "after": "Properly sequence adjectives in English sentences.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 50,
+            "before": "Which sentence contains adjectives in the correct order:",
+            "after": "Which sentence has adjectives in the correct order:",
+            "score_change": -0.007936507936507908
+        }
+    ]
+}

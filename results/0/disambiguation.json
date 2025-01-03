@@ -1,0 +1,612 @@
+{
+    "prompt": [
+        {
+            "Epoch": 0,
+            "prompt": "Clarify the meaning of sentences with ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn't reply yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at his office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 1,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn't reply yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at his office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 2,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn't reply yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 3,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 4,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off from work.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn't reply yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at his office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 5,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn't reply yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6031746031746031,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 6,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 7,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn't reply yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the office of the director.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 8,
+            "prompt": "Clarify the meaning of sentences with potentially ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 9,
+            "prompt": "Clarify the meaning of sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.626984126984127,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 10,
+            "prompt": "Clarify the meaning of sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6507936507936508,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 11,
+            "prompt": "Clarify the meaning of sentences that could contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 12,
+            "prompt": "Clarify the meaning of sentences that contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6587301587301587,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 13,
+            "prompt": "Clarify the meaning of sentences that have ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6587301587301587,
+            "test_set_score": 0.6370967741935484
+        },
+        {
+            "Epoch": 14,
+            "prompt": "Clarify the meaning of sentences that contain potentially ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6507936507936508,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 15,
+            "prompt": "Clarify the meaning of sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the office of the director.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6190476190476191,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 16,
+            "prompt": "Clarify the meaning of sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but no reply has been received yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6111111111111112,
+            "test_set_score": 0.6451612903225806
+        },
+        {
+            "Epoch": 17,
+            "prompt": "Clarify the meaning of sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 18,
+            "prompt": "Clarify the meaning of sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6587301587301587,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 19,
+            "prompt": "Clarify the meaning of sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 20,
+            "prompt": "Clarify the meaning of sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6428571428571429,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 21,
+            "prompt": "Clarify the meaning of sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6507936507936508,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 22,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 23,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 24,
+            "prompt": "Clarify sentences that could contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6587301587301587,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 25,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 26,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 27,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 28,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 29,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6774193548387096
+        },
+        {
+            "Epoch": 30,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 31,
+            "prompt": "Clarify sentences that could contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6587301587301587,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 32,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 33,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 34,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 35,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state if it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state if it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state if it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6349206349206349,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 36,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6774193548387096
+        },
+        {
+            "Epoch": 37,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 38,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 39,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 40,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 41,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 42,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 43,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6693548387096774
+        },
+        {
+            "Epoch": 44,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6774193548387096
+        },
+        {
+            "Epoch": 45,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 46,
+            "prompt": "Clarify sentences that might contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6666666666666666,
+            "test_set_score": 0.6774193548387096
+        },
+        {
+            "Epoch": 47,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 48,
+            "prompt": "Clarify sentences that potentially contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6587301587301587,
+            "test_set_score": 0.6612903225806451
+        },
+        {
+            "Epoch": 49,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        },
+        {
+            "Epoch": 50,
+            "prompt": "Clarify sentences that may contain ambiguous pronouns.\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but the secretary hasn't replied yet.\nOptions:\n(A) The secretary didn't reply yet\n(B) The manager didn't reply yet\n(C) Ambiguous\nA: (A)\n\nQ: In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey plans to meet the director at the director's office.\nOptions:\n(A) It will be Bailey's office\n(B) It will be the director's office\n(C) Ambiguous\nA: (C)\n\n",
+            "train_set_score": 0.6746031746031746,
+            "test_set_score": 0.6532258064516129
+        }
+    ],
+    "sentence_mutation": [
+        {
+            "Epoch": 1,
+            "before": "Clarify the meaning of sentences with ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that contain ambiguous pronouns.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 2,
+            "before": "Bailey will plan to meet the director at his office.",
+            "after": "Bailey will plan to meet the director at the director's office.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 3,
+            "before": "The manager sent a message to the secretary, but he didn't reply yet.",
+            "after": "The manager sent a message to the secretary, but the secretary hasn't replied yet.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 4,
+            "before": "The chief told the counselor that they took the day off.",
+            "after": "The chief told the counselor that they took the day off from work.",
+            "score_change": -0.015873015873015817
+        },
+        {
+            "Epoch": 5,
+            "before": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.",
+            "after": "In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state that it is ambiguous.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 6,
+            "before": "Bailey will plan to meet the director at the director's office.",
+            "after": "Bailey plans to meet the director at the director's office.",
+            "score_change": 0.06349206349206349
+        },
+        {
+            "Epoch": 7,
+            "before": "Bailey plans to meet the director at the director's office.",
+            "after": "Bailey plans to meet the director at the office of the director.",
+            "score_change": -0.05555555555555547
+        },
+        {
+            "Epoch": 8,
+            "before": "Clarify the meaning of sentences that contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences with potentially ambiguous pronouns.",
+            "score_change": 0.031746031746031744
+        },
+        {
+            "Epoch": 9,
+            "before": "Clarify the meaning of sentences with potentially ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 10,
+            "before": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 11,
+            "before": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that could contain ambiguous pronouns.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 12,
+            "before": "Bailey will plan to meet the director at the director's office.",
+            "after": "Bailey plans to meet the director at the director's office.",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 13,
+            "before": "Clarify the meaning of sentences that contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that have ambiguous pronouns.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 14,
+            "before": "Clarify the meaning of sentences that have ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that contain potentially ambiguous pronouns.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 15,
+            "before": "Bailey plans to meet the director at the director's office.",
+            "after": "Bailey plans to meet the director at the office of the director.",
+            "score_change": -0.031746031746031744
+        },
+        {
+            "Epoch": 16,
+            "before": "The manager sent a message to the secretary, but the secretary hasn't replied yet.",
+            "after": "The manager sent a message to the secretary, but no reply has been received yet.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 17,
+            "before": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "score_change": 0.05555555555555547
+        },
+        {
+            "Epoch": 18,
+            "before": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 19,
+            "before": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 20,
+            "before": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "score_change": -0.023809523809523725
+        },
+        {
+            "Epoch": 21,
+            "before": "Clarify the meaning of sentences that might contain ambiguous pronouns.",
+            "after": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 22,
+            "before": "Clarify the meaning of sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 23,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 24,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that could contain ambiguous pronouns.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 25,
+            "before": "Clarify sentences that could contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 26,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 27,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 28,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 29,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 30,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 31,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that could contain ambiguous pronouns.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 32,
+            "before": "Clarify sentences that could contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 33,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 34,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 35,
+            "before": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.",
+            "after": "In the following sentences, identify the antecedent of the pronoun (the thing the pronoun refers to), or state if it is ambiguous.",
+            "score_change": -0.039682539682539764
+        },
+        {
+            "Epoch": 36,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": 0.031746031746031744
+        },
+        {
+            "Epoch": 37,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 38,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 39,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 40,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 41,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 42,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 43,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 44,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 45,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 46,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that might contain ambiguous pronouns.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 47,
+            "before": "Clarify sentences that might contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 48,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that potentially contain ambiguous pronouns.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 49,
+            "before": "Clarify sentences that potentially contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 50,
+            "before": "Clarify sentences that may contain ambiguous pronouns.",
+            "after": "Clarify sentences that may contain ambiguous pronouns.",
+            "score_change": 0.0
+        }
+    ]
+}

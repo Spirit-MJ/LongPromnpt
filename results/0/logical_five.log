@@ -1,0 +1,1815 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</original>
+<rephrased>
+
+ 
+ responce:
+A task that involves deducing the order of a sequence of objects through logical deduction.
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The statements are logically consistent within each paragraph.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each paragraph contains statements that are logically consistent.
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</original>
+<rephrased>
+
+ 
+ responce:
+A task involving logical deduction to determine the sequence order of objects.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each subsequent paragraph describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A task involving logical deduction to determine the sequence order of objects.
+</original>
+<rephrased>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</original>
+<rephrased>
+
+ 
+ responce:
+A task requiring logical deduction to determine the order of a sequence of objects.
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+A task involving logical deduction to determine the sequence order of objects.
+</original>
+<rephrased>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+A task involving logical deduction to determine the sequence order of objects.
+</original>
+<rephrased>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A task involving logical deduction to determine the sequence order of objects.
+</original>
+<rephrased>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+A task involving logical deduction to determine the sequence order of objects.
+</original>
+<rephrased>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each paragraph that follows describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each paragraph that follows describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each paragraph that follows describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a specific order.
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each subsequent paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the subsequent paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each paragraph contains statements that are logically consistent.
+</original>
+<rephrased>
+The statements are logically consistent within each paragraph.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each of the subsequent paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the subsequent paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each following paragraph describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+The following paragraphs each describe a set of three objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the subsequent paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following paragraphs each describe a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a fixed order.
+</rephrased>
+<original>
+Each following paragraph describes a set of five objects arranged in a specific order.
+</original>
+<rephrased>
+Each of the following paragraphs describes a set of five objects arranged in a specific order.
+</rephrased>
+<original>
+Each subsequent paragraph describes a set of five objects arranged in a fixed order.
+</original>
+<rephrased>
+Each following paragraph describes a set of five objects arranged in a fixed order.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Each following paragraph describes a set of three objects arranged in a fixed order.
+</original>
+<rephrased>
+
+ 
+ responce:
+Each of the following paragraphs describes a set of three objects arranged in a fixed order.
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A task involving logical deduction to determine the sequence order of objects.
+</original>
+<rephrased>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A logical deduction task which requires deducing the order of a sequence of objects.
+</original>
+<rephrased>
+
+ 
+ responce:
+A task requiring logical deduction to determine the order of a sequence of objects.
+--------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1612 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations include a specific error. This error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: A named entity (such as a name or place) is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+<original>
+Named Entities: A named entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: A crucial clause in the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: A named entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: An entity (such as a name or place) is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An important clause in the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the kind of error in the English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify the kind of error in the English translation of a German sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the type of error in the English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An important clause in the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: An important clause in the translation has been removed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: An important clause in the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An essential clause in the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</original>
+<rephrased>
+
+ 
+ responce:
+Trivial factual errors, unrelated to the above classes, are included in the translations.
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: A named entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Named Entities: An entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: An entity (names, places, locations, and other entities) is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: An important clause in the translation has been removed.
+</rephrased>
+<original>
+Dropped Content: An important clause in the translation has been removed.
+</original>
+<rephrased>
+Dropped Content: An essential clause in the translation has been removed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A crucial clause in the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An important clause in the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: A named entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Named Entities: An entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, and other entities) is replaced with a different entity.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: An entity (such as a name, place, or location) is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify that error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the error.
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: An important clause in the translation has been removed.
+</rephrased>
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, and other entities) is replaced with a different entity.
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An important clause in the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased:
+Numerical values, including ordinals, cardinals, dates, and units, are altered.
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+Trivial factual errors, unrelated to the above classes, are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+<original>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+<original>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</original>
+<rephrased>
+Rephrased:
+Numerical values, including ordinals, cardinals, dates, and units, are altered.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased:
+Numerical values, including ordinals and cardinals, dates, and units, are modified.
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Include or exclude negation, or switch comparatives to their opposites.
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Trivial factual errors, unrelated to the above classes, are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</original>
+<rephrased>
+
+ 
+ responce:
+Facts: Trivial factual errors that do not relate to the previous classes are included in the translations.
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Facts: Trivial factual errors that do not relate to the previous classes are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</original>
+<rephrased>
+Rephrased:
+Numerical values, including ordinals, cardinals, dates, and units, are altered.
+</rephrased>
+<original>
+Negation and Antonyms: Include or exclude negation, or switch comparatives to their opposites.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers or Adjectives: The modifiers and adjectives associated with a noun are changed.
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: An important clause in the translation has been removed.
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+<original>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+Facts: Trivial factual errors that do not relate to the previous classes are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives associated with a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+Named Entities: An entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A crucial clause in the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An important clause has been removed from the translation.
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Identify the type of error in the English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the type of error in the English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+<original>
+Negation and Antonyms: Include or exclude negation, or switch comparatives to their opposites.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, and other entities) is replaced with a different entity.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A crucial clause in the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: An important clause has been removed from the translation.
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Identify the type of error in the English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in the English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the type of error in the English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+Dropped Content: An important clause in the translation has been removed.
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+<original>
+Named Entities: An entity (such as a name, place, or location) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+
+ 
+ responce:
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Identify the type of error in the English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in the English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the type of error in the English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: An entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</original>
+<rephrased>
+Rephrased:
+Numerical values, including ordinals, cardinals, dates, and units, are altered.
+</rephrased>
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, and other entities) is replaced with a different entity.
+</rephrased>
+<original>
+Negation and Antonyms: Include or exclude negation, or switch comparatives to their opposites.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers or Adjectives: The adjectives and modifiers associated with a noun are changed.
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in the English translation of a German sentence.
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+<original>
+Dropped Content: An important clause has been removed from the translation.
+</original>
+<rephrased>
+Dropped Content: A crucial clause in the translation has been removed.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A crucial clause in the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Dropped Content: A vital clause has been omitted in the translation.
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Trivial factual errors, unrelated to the above classes, are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+Facts: Trivial factual errors that do not relate to the previous classes are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</original>
+<rephrased>
+
+ 
+ responce:
+Facts: Trivial factual errors unrelated to the previous classes are included in the translations.
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: A named entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Named Entities: An entity (such as a name or place) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, and other entities) is replaced with a different entity.
+</rephrased>
+<original>
+Named Entities: An entity (such as a name, place, or location) is replaced with a different entity.
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: An entity (such as a name, place, or location) is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Identify the type of error in the English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify the type of error in the English translation of a German sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the kind of error in the English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify that error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the error.
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify the error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the mistake.
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased:
+Numerical values, including ordinals and cardinals, dates, and units, are modified.
+</original>
+<rephrased>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</rephrased>
+<original>
+Facts: Trivial factual errors that do not relate to the previous classes are included in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+Identify the type of error in the English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in the English translation of a German sentence.
+</rephrased>
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Modifiers or Adjectives: The adjectives and modifiers related to a noun are changed.
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased:
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are changed.
+</rephrased>
+<original>
+Modifiers or Adjectives: The modifiers and adjectives associated with a noun are changed.
+</original>
+<rephrased>
+Modifiers and Adjectives: Words that modify or describe a noun are altered.
+</rephrased>
+<original>
+Rephrased:
+Numerical values, including ordinals and cardinals, dates, and units, are modified.
+</original>
+<rephrased>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: An entity (names, places, locations, etc.) is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+Modifiers or Adjectives: The modifiers and adjectives associated with a noun are changed.
+</rephrased>
+<original>
+The following German-to-English translations contain a particular error. That error will be one of the following types:
+</original>
+<rephrased>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+<original>
+Negation and Antonyms: Include or exclude negation, or switch comparatives to their opposites.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Detect the type of error in the English translation of a German source sentence.
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+Named Entities: An entity (such as a name, place, or location) is replaced with a different entity.
+</rephrased>
+<original>
+The following German-to-English translations include a specific error. This error will be one of the following types:
+</original>
+<rephrased>
+The following German-to-English translations contain a specific error. This error will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in the English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Detect the type of error in the English translation of a given German sentence.
+--------------------------------------------------------------------------------------------------------------

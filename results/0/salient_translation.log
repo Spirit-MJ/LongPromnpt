@@ -1,0 +1,1666 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased:
+Named Entities: An entity, such as a name or place, is replaced with a different entity.
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the kind of error in an English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Identify the kind of error in an English translation of a German sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the type of error in an English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Identify the type of error in an English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</original>
+<rephrased>
+
+ 
+ responce:
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Identify the type of error in an English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Numerical Values: Ordinals, cardinals, dates, and units are altered.
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Identify the type of error in an English translation of a German sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+
+ 
+ responce:
+Identify the type of error in an English translation of a German sentence.
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify that error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the error.
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased: A crucial segment of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased:
+Modifiers and Adjectives: The words that modify or describe a noun are altered.
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify that error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the error.
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify the error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the mistake.
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Rephrased: A crucial segment of the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased: An important part of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, and convert comparatives to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Rephrased: A crucial segment of the translation has been omitted.
+</rephrased>
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Rephrased: An important part of the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased: An important clause from the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A crucial clause from the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A crucial clause from the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant clause from the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+
+ 
+ responce:
+The translations from German to English below include a specific error, which will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The translations from German to English below include a specific error, which will be one of the following types:
+</original>
+<rephrased>
+
+ 
+ responce:
+The German-to-English translations below contain a specific error, which will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+The German-to-English translations below contain a specific error, which will be one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The German-to-English translations below contain a specific error, which will be one of the following types:
+</original>
+<rephrased>
+
+ 
+ responce:
+The translations from German to English below include a specific error, which will be one of the following types:
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+The German-to-English translations below contain a specific error, which will be one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+The German-to-English translations below contain a specific error, which will be one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The translations from German to English below include a specific error, which will be one of the following types:
+</original>
+<rephrased>
+
+ 
+ responce:
+The translations from German to English below contain a specific error, which will fall into one of the following types:
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, and convert comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, and convert comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposites.
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+A significant clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A crucial portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+A significant clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+A crucial portion of the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A crucial portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The translations from German to English below contain a specific error, which will fall into one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+Rephrased:
+Modifiers and Adjectives: The words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A substantial part of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The German-to-English translations below contain a specific error, which will be one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+Rephrased:
+Modifiers and Adjectives: The words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+Dropped Content: A significant clause in the translation is removed. 
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the kind of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, and convert comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Include or exclude negation, or convert comparatives to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</original>
+<rephrased>
+
+ 
+ responce:
+Rephrased:
+<original>
+Named Entities: An entity, such as a name or location, is replaced with a different entity.
+</original>
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased:
+<original>
+Named Entities: An entity, such as a name or location, is replaced with a different entity.
+</original
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Rephrased:
+<original>
+Named Entities: An entity, such as a name or location, is replaced with a different entity.
+</original>
+</original>
+<rephrased>
+
+ 
+ responce:
+Named Entities: An entity, like a name or location, is substituted with a different entity.
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A substantial part of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposites.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposites.
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Please identify the mistake.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Please identify that error.
+</original>
+<rephrased>
+
+ 
+ responce:
+Please identify the error.
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: An entity, like a name or location, is substituted with a different entity.
+</original>
+<rephrased>
+Rephrased:
+<original>
+Named Entities: An entity, such as a name or location, is replaced with a different entity.
+</original>
+</rephrased>
+<original>
+A substantial part of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased:
+Modifiers and Adjectives: The words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Please identify the error.
+</original>
+<rephrased>
+Please identify that error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A significant clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+The translations from German to English below contain a specific error, which will fall into one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+The following translations from German to English contain a particular error.     That error will be one of the following types: 
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, and convert comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives.
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+Dropped Content: A significant clause in the translation is removed. 
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Numerical Values: Ordinals, cardinals, dates, and units are altered.
+</original>
+<rephrased>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</rephrased>
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add, remove, or reverse negation and comparatives.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add, remove, or invert negation and comparatives.
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Rephrased:
+Modifiers and Adjectives: The words that modify or describe a noun are altered.
+</original>
+<rephrased>
+Modifiers or Adjectives: The modifiers and adjectives pertaining to a noun are changed.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Please identify the mistake.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A substantial part of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add, remove, or reverse negation and comparatives.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A substantial part of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased:
+<original>
+Named Entities: An entity, such as a name or location, is replaced with a different entity.
+</original
+</original>
+<rephrased>
+Named Entities: An entity (names, places, locations, etc.) is changed to a different entity. 
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposites.
+</rephrased>
+<original>
+Numerical Values: Ordinals, cardinals, dates, and units are altered.
+</original>
+<rephrased>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</rephrased>
+<original>
+Please identify the error.
+</original>
+<rephrased>
+Please identify that error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A considerable portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A considerable portion of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Negation and Antonyms: Add, remove, or reverse negation and comparatives.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+<original>
+Negation and Antonyms: Add, remove, or reverse negation and comparatives.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposites.
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The translations from German to English below contain a specific error, which will fall into one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Include or exclude negation, or transform comparatives into their opposite forms.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A considerable part of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+The German-to-English translations below contain a specific error, which will be one of the following types:
+</original>
+<rephrased>
+The translations from German to English below include a specific error, which will be one of the following types:
+</rephrased>
+<original>
+Rephrased: A crucial segment of the translation has been omitted.
+</original>
+<rephrased>
+A significant portion of the translation has been omitted.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A considerable part of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Named Entities: An entity, like a name or location, is substituted with a different entity.
+</original>
+<rephrased>
+Rephrased:
+<original>
+Named Entities: An entity, such as a name or location, is replaced with a different entity.
+</original>
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+
+ 
+ responce:
+Negation and Antonyms: Add, remove, or invert the meaning of comparatives by changing them to their opposite forms.
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+A significant clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+Detect the type of error in an English translation of a German source sentence.
+</original>
+<rephrased>
+Identify the type of error in an English translation of a German sentence.
+</rephrased>
+<original>
+Trivial factual errors not belonging to the aforementioned classes are introduced in the translations.
+</original>
+<rephrased>
+Facts: Trivial factual errors not pertaining to the above classes are introduced in the translations.
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A substantial portion of the translation has been omitted.
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Numerical Values: Ordinals, cardinals, dates, and units are altered.
+</original>
+<rephrased>
+Numerical Values: Numerical values (ordinals or cardinals), dates, and/or units are changed. 
+</rephrased>
+<original>
+Negation or Antonyms: Introduce or remove a negation or change comparatives to their antonyms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Dropped Content: A significant clause in the translation is removed. 
+</original>
+<rephrased>
+Rephrased: A crucial segment of the translation has been omitted.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A substantial portion of the translation has been omitted.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant part of the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Please identify that error.
+</original>
+<rephrased>
+Please identify the error.
+</rephrased>
+<original>
+A significant portion of the translation has been omitted.
+</original>
+<rephrased>
+A substantial part of the translation has been omitted.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A significant part of the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+A substantial portion of the translation has been removed.
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Rephrased: An important clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+A significant clause from the translation has been omitted.
+</original>
+<rephrased>
+A crucial clause from the translation has been omitted.
+</rephrased>
+<original>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms. 
+
+(Note: The original sentence is already quite clear, but to slightly enhance it for a language model, we can maintain the structure and clarity while ensuring it's straightforward.)
+
+If you want to make it even more concise:
+Negation and Antonyms: Add, remove, or reverse negation and comparatives. 
+
+This version maintains the original meaning while being slightly more compact.
+</original>
+<rephrased>
+Negation and Antonyms: Add or remove negation, or change comparatives to their opposite forms.
+</rephrased>
+<original>
+Please identify the error.
+</original>
+<rephrased>
+Please identify that error.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+A substantial portion of the translation has been removed.
+</original>
+<rephrased>
+
+ 
+ responce:
+A significant portion of the translation has been removed.
+--------------------------------------------------------------------------------------------------------------

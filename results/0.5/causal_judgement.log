@@ -1,0 +1,1509 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+
+ 
+ responce:
+Pose questions regarding the identification of causal relationships.
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an average person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would an average person respond to each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would a typical person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an ordinary person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+How would an ordinary person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would a typical person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would an average person respond to each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would a typical person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Pose questions regarding the identification of causal relationships.
+</original>
+<rephrased>
+
+ 
+ responce:
+Form questions to identify causal relationships.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+
+ 
+ responce:
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. The bullet then bounced off a large boulder several feet away and struck the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+
+ 
+ responce:
+Respond to inquiries concerning the assignment of causality.
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Be here at exactly 9 am. Your arrival at that time is essential." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, designed to activate if at least one person enters at the specified time. The motion detector went off. Did Billy trigger the motion detector?
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+How would an ordinary person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would a typical person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an average person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+
+ 
+ responce:
+Respond to questions related to causal attribution.
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, with the third game closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an average person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but lacked experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but lacked experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he lacked gun experience. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he lacked gun experience. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but lacked gun experience. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+
+ 
+ responce:
+Respond to questions related to causal attribution.
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+
+ 
+ responce:
+Respond to questions involving causal attribution.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to go wild. The bullet bounced off a large boulder several feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+<original>
+How would a typical person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an average person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would an ordinary person respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would a typical person respond to each of the following questions about causation?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, with the third game closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, but Lena is going through marital unhappiness and recently lost her job. Throughout the day, they have several heated arguments. In the late afternoon, they play a game of darts. They split the first two games, and the third game is close until the end. The winner is decided by George's last shot. Scoring a high point wins, while a low point loses. Considering Lena's difficult situation, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, but Lena is going through marital unhappiness and recently lost her job. Throughout the day, they have several heated arguments. In the late afternoon, they play a game of darts. They split the first two games, and the third game is close until the end. The winner is decided by George's last shot. Scoring a high point wins, while a low point loses. Considering Lena's difficult situation, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. Despite this, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an average person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would an average person respond to each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How might an average person respond to each of the following questions regarding causation?
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, but Lena is going through marital unhappiness and recently lost her job. Throughout the day, they have several heated arguments. In the late afternoon, they play a game of darts. They split the first two games, and the third game is close until the end. The winner is decided by George's last shot. Scoring a high point wins, while a low point loses. Considering Lena's difficult situation, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. Despite this, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and the gun went off. Although the bullet hit a large boulder several feet away and then struck the neighbor's body, causing significant injury, did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor, but he had no experience with guns. His hand slipped on the gun's barrel, causing the shot to miss. However, the bullet hit a large boulder a few feet away and ricocheted, injuring the neighbor. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and the gun went off. Although the bullet hit a large boulder several feet away and then struck the neighbor's body, causing significant injury, did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would an average person typically respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would an average person typically respond to each of the following questions about causation?
+</original>
+<rephrased>
+How would a typical person answer each of the following questions about causation?
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but was inexperienced with guns. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</rephrased>
+<original>
+Frank T. had an ongoing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and the gun went off. Although the bullet hit a large boulder several feet away and then struck the neighbor's body, causing significant injury, did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, while Lena is unhappy in her marriage and recently lost her job. Over the course of the day, they get into several heated arguments. In the afternoon, they play a game of darts. They split the first two games, and the third game is close until the end. The winner depends on George's final shot. If he hits a high point, he wins; if he hits a low point, Lena wins. George thinks about the tough time Lena is having and wants her to win. He aims at the low point region and sets up his shot. The dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally hit the low point region?
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no gun experience. Accidentally, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</rephrased>
+<original>
+Answer questions about causal attribution.
+</original>
+<rephrased>
+Pose questions regarding the identification of causal relationships.
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no gun experience. Accidentally, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no gun experience. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. Despite this, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no gun experience. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, but Lena is going through marital unhappiness and recently lost her job. Throughout the day, they have several heated arguments. In the late afternoon, they play a game of darts. They split the first two games, and the third game is close until the end. The winner is decided by George's last shot. Scoring a high point wins, while a low point loses. Considering Lena's difficult situation, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+At their parents' house for Thanksgiving, George and his sister Lena meet. George has been accepted into medical school, while Lena is going through marital issues and job loss. They have several arguments throughout the day. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart determines the winner—scoring a high point wins, a low point loses. Concerned for Lena's well-being, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, but Lena is going through marital unhappiness and recently lost her job. Throughout the day, they get into several heated arguments. In the late afternoon, they play a game of darts. They split the first two games, and the third game is close until the end. The winner is decided by George's last shot. Scoring a high point wins, while a low point loses. Considering Lena's difficult situation, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, emphasizing that their presence at this time is essential. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+<original>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has been accepted into medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</original>
+<rephrased>
+George and his sister Lena meet at their parents' house for Thanksgiving. George has just been accepted to medical school, but Lena is experiencing marital unhappiness and job loss. Throughout the day, they have several heated arguments. In the late afternoon, they play darts. They tie the first two games, and the third game is closely contested until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, wanting her to win. He sets up his shot and throws the dart, which lands in the low point region. Lena wins and is very happy. Did George intentionally aim for the low point region?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+George and his sister Lena reunite at their parents' house for Thanksgiving. Whereas George just got into medical school, Lena is unhappy in her marriage and recently lost her job. Over the course of the day, George and Lena get into a number of heated arguments. Later in the afternoon they play a game of darts. They split the first two games, and the third game is close until the end. Who will win comes down to George's last shot. If he hits a high point region, he wins; if he hits a low point region, Lena wins. George thinks of the difficult time Lena is having, and he really wants to let her win. He aims the dart at the low point region. He sets up his shot and the dart lands in the low point region. After his shot, Lena wins the game and is very happy. Did George hit the low point region intentionally?
+</original>
+<rephrased>
+
+ 
+ responce:
+George and his sister Lena reunite at their parents' house for Thanksgiving. George has just been accepted into medical school, while Lena is experiencing marital unhappiness and has recently lost her job. Throughout the day, George and Lena get into several heated arguments. In the late afternoon, they play a game of darts. They tie the first two games, and the third game is close until the final throw. George's last dart will decide the winner—scoring a high point wins, a low point loses. Considering Lena's difficulties, George aims for the low point region, hoping she wins. He sets up his shot and throws the dart, which lands in the low point region. After his shot, Lena wins the game and is very happy. Did George intentionally aim for the low point region?
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+<original>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</original>
+<rephrased>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</rephrased>
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, emphasizing that their presence at this time is essential. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them: "Make sure you are here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. There is a motion detector in the room, triggered if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, emphasizing that their presence at this time is essential. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no gun experience. Accidentally, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</rephrased>
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but was inexperienced with guns. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</rephrased>
+<original>
+Frank T., had an ongoing dispute with his neighbor over a stretch of land and one day decided to shoot his neighbor in the body. Frank T. had no experience with guns, his hand slipped on the barrel of the gun, and the shot went wild. Nonetheless, the bullet bounced off a large boulder several feet away and hit the neighbor's body, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</original>
+<rephrased>
+Frank T. had an ongoing dispute with his neighbor over a stretch of land. One day, he decided to shoot his neighbor but had no experience with guns. His hand slipped on the gun's barrel, and the shot went wild. However, the bullet bounced off a large boulder a few feet away and hit the neighbor, causing significant injury. Did Frank T. intentionally shoot his neighbor in the body?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, emphasizing that their presence at this time is essential. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time. The motion detector activated. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, emphasizing that their presence at this time is essential. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time. The motion detector activated. Did Billy enter the room at 9 am?
+</rephrased>
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, emphasizing that their presence at this time is essential. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time. The motion detector activated. Did Billy enter the room at 9 am?
+</rephrased>
+</original>
+<rephrased>
+
+ 
+ responce:
+Suzy and Billy are working on a critical national security project. Their boss instructs them to arrive at exactly 9 am, stressing the importance of their presence at that time. Both Suzy and Billy arrive at 9 am. The room has a motion detector that activates if at least one person enters at the specified time, and the motion detector activated. Did Billy enter the room at 9 am?
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. Accidentally, his hand slipped on the gun's barrel, and it went off. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no gun experience. Accidentally, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</rephrased>
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+How would an average person respond to each of the following questions about causation?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+
+ 
+ responce:
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but lacked gun experience. By accident, his hand slipped on the gun's barrel, causing it to discharge. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but lacked gun experience. By accident, his hand slipped on the gun's barrel, causing it to discharge. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</original>
+<rephrased>
+Frank T. had a long-standing dispute with his neighbor over a piece of land. One day, he decided to shoot his neighbor but had no experience with guns. By accident, his hand slipped on the gun's barrel, and it discharged. The bullet hit a large boulder a few feet away and then struck the neighbor's body, causing significant injury. Did Frank T. intentionally aim at his neighbor's body?
+</rephrased>
+<original>
+Respond to inquiries concerning the assignment of causality.
+</original>
+<rephrased>
+Answer questions about causal attribution.
+</rephrased>
+<original>
+Suzy and Billy are working on a critical national security project. Their boss instructs them, "Make sure you are both here at exactly 9 am. It is absolutely essential that you arrive at this time." Both Suzy and Billy arrive at 9 am. In the room they enter, there is a motion detector set to trigger if at least one person enters the room at the specified time. The motion detector activates. Did Billy trigger the motion detector?
+</original>
+<rephrased>
+Suzy and Billy are working on a project that is very important for our nation's security. The boss tells them both: "Be sure that you are here at exactly 9 am. It is absolutely essential that you arrive at that time." Both Billy and Suzy arrive at 9 am. As it happens, there was a motion detector installed in the room where they arrived. The motion detector was set up to be triggered if at least one person appeared in the room at the same time. So the motion detector went off. Did Billy cause the motion detector to go off?
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+How would a typical person answer each of the following questions about causation?
+</original>
+<rephrased>
+
+ 
+ responce:
+How would a typical person respond to each of the following questions about causation?
+--------------------------------------------------------------------------------------------------------------

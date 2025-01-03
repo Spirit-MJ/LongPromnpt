@@ -1,0 +1,612 @@
+{
+    "prompt": [
+        {
+            "Epoch": 0,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 1,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 2,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.49206349206349204,
+            "test_set_score": 0.5241935483870968
+        },
+        {
+            "Epoch": 3,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.47580645161290325
+        },
+        {
+            "Epoch": 4,
+            "prompt": "A logical deduction task that involves determining the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.48412698412698413,
+            "test_set_score": 0.5241935483870968
+        },
+        {
+            "Epoch": 5,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 6,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 7,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.49206349206349204,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 8,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 9,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 10,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 11,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 12,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each of the following paragraphs describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each of the following paragraphs describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each of the following paragraphs describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.49206349206349204,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 13,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 14,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 15,
+            "prompt": "A logical deduction task that involves determining the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.49206349206349204,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 16,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 17,
+            "prompt": "A logical deduction task that involves determining the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 18,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 19,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each of the following paragraphs describes a set of three objects in a fixed arrangement.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each of the following paragraphs describes a set of three objects in a fixed arrangement.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each of the following paragraphs describes a set of three objects in a fixed arrangement.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 20,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 21,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 22,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 23,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 24,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 25,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 26,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 27,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 28,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 29,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Below, each paragraph describes a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Below, each paragraph describes a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Below, each paragraph describes a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 30,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 31,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 32,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects in a fixed arrangement.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects in a fixed arrangement.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects in a fixed arrangement.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 33,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5317460317460317,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 34,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 35,
+            "prompt": "A logical deduction task that involves determining the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 36,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Below, each paragraph describes a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Below, each paragraph describes a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Below, each paragraph describes a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.47619047619047616,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 37,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.5161290322580645
+        },
+        {
+            "Epoch": 38,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph includes logically consistent statements.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph includes logically consistent statements.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph includes logically consistent statements.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 39,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each of the following paragraphs describes a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each of the following paragraphs describes a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each of the following paragraphs describes a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.47580645161290325
+        },
+        {
+            "Epoch": 40,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains statements that are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains statements that are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains statements that are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.532258064516129
+        },
+        {
+            "Epoch": 41,
+            "prompt": "A logical deduction task that involves determining the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.5080645161290323
+        },
+        {
+            "Epoch": 42,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.48412698412698413,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 43,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.49206349206349204,
+            "test_set_score": 0.5241935483870968
+        },
+        {
+            "Epoch": 44,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 45,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5158730158730159,
+            "test_set_score": 0.49193548387096775
+        },
+        {
+            "Epoch": 46,
+            "prompt": "A logical deduction task that requires determining the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  The statements in each paragraph are logically consistent.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 47,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5,
+            "test_set_score": 0.5
+        },
+        {
+            "Epoch": 48,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  The statements are logically consistent within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.49206349206349204,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 49,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: The following paragraphs each describe a set of three objects arranged in a fixed order.  Logically consistent statements are found within each paragraph.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5238095238095238,
+            "test_set_score": 0.4838709677419355
+        },
+        {
+            "Epoch": 50,
+            "prompt": "A logical deduction task which requires deducing the order of a sequence of objects.\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  Each paragraph contains logically consistent statements.\nIn a golf tournament, there were three golfers: Amy, Eli, and Eve.    Eve finished above Amy.    Eli finished below Amy.\nOptions:\n(A) Amy finished last\n(B) Eli finished last\n(C) Eve finished last\nA: (B)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a white book, a green book, and an orange book.    The green book is to the right of the white book.    The orange book is the rightmost.\nOptions:\n(A) The white book is the leftmost\n(B) The green book is the leftmost\n(C) The orange book is the leftmost\nA: (A)\n\nQ: Each paragraph below describes a fixed arrangement of three objects.  Each paragraph contains logically consistent statements.\nOn a shelf, there are three books: a red book, a gray book, and a white book.    The white book is to the left of the gray book.    The red book is the second from the left.\nOptions:\n(A) The red book is the leftmost\n(B) The gray book is the leftmost\n(C) The white book is the leftmost\nA: (C)\n\n",
+            "train_set_score": 0.5079365079365079,
+            "test_set_score": 0.4838709677419355
+        }
+    ],
+    "sentence_mutation": [
+        {
+            "Epoch": 1,
+            "before": "The following paragraphs each describe a set of five objects arranged in a fixed order.",
+            "after": "Each paragraph below describes a fixed arrangement of five objects.",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 2,
+            "before": "The statements are logically consistent within each paragraph.",
+            "after": "Each paragraph contains logically consistent statements.",
+            "score_change": -0.0317460317460318
+        },
+        {
+            "Epoch": 3,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Each paragraph below describes a fixed arrangement of three objects.",
+            "score_change": 0.02380952380952389
+        },
+        {
+            "Epoch": 4,
+            "before": "A logical deduction task which requires deducing the order of a sequence of objects.",
+            "after": "A logical deduction task that involves determining the order of a sequence of objects.",
+            "score_change": -0.0317460317460318
+        },
+        {
+            "Epoch": 5,
+            "before": "Each paragraph contains logically consistent statements.",
+            "after": "The statements in each paragraph are logically consistent.",
+            "score_change": 0.0317460317460318
+        },
+        {
+            "Epoch": 6,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 7,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Each paragraph below describes a fixed arrangement of three objects.",
+            "score_change": -0.02380952380952389
+        },
+        {
+            "Epoch": 8,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.015873015873015872
+        },
+        {
+            "Epoch": 9,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 10,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 11,
+            "before": "The statements are logically consistent within each paragraph.",
+            "after": "Logically consistent statements are found within each paragraph.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 12,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Each of the following paragraphs describes a fixed arrangement of three objects.",
+            "score_change": -0.007936507936507964
+        },
+        {
+            "Epoch": 13,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.02380952380952389
+        },
+        {
+            "Epoch": 14,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Each paragraph below describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 15,
+            "before": "A logical deduction task which requires deducing the order of a sequence of objects.",
+            "after": "A logical deduction task that involves determining the order of a sequence of objects.",
+            "score_change": -0.02380952380952389
+        },
+        {
+            "Epoch": 16,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.015873015873015872
+        },
+        {
+            "Epoch": 17,
+            "before": "A logical deduction task which requires deducing the order of a sequence of objects.",
+            "after": "A logical deduction task that involves determining the order of a sequence of objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 18,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 19,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Each of the following paragraphs describes a set of three objects in a fixed arrangement.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 20,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 21,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.00793650793650802
+        },
+        {
+            "Epoch": 22,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 23,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 24,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 25,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 26,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 27,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 28,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Each paragraph below describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 29,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Below, each paragraph describes a set of three objects arranged in a fixed order.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 30,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Each paragraph below describes a fixed arrangement of five objects.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 31,
+            "before": "The statements are logically consistent within each paragraph.",
+            "after": "Logically consistent statements are found within each paragraph.",
+            "score_change": -0.015873015873015928
+        },
+        {
+            "Epoch": 32,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "The following paragraphs each describe a set of three objects in a fixed arrangement.",
+            "score_change": 0.015873015873015928
+        },
+        {
+            "Epoch": 33,
+            "before": "The statements are logically consistent within each paragraph.",
+            "after": "Logically consistent statements are found within each paragraph.",
+            "score_change": 0.015873015873015817
+        },
+        {
+            "Epoch": 34,
+            "before": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": -0.023809523809523836
+        },
+        {
+            "Epoch": 35,
+            "before": "A logical deduction task which requires deducing the order of a sequence of objects.",
+            "after": "A logical deduction task that involves determining the order of a sequence of objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 36,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Below, each paragraph describes a set of three objects arranged in a fixed order.",
+            "score_change": -0.031746031746031744
+        },
+        {
+            "Epoch": 37,
+            "before": "Logically consistent statements are found within each paragraph.",
+            "after": "Each paragraph contains logically consistent statements.",
+            "score_change": 0.023809523809523836
+        },
+        {
+            "Epoch": 38,
+            "before": "Each paragraph contains logically consistent statements.",
+            "after": "Each paragraph includes logically consistent statements.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 39,
+            "before": "The following paragraphs each describe a set of three objects arranged in a fixed order.",
+            "after": "Each of the following paragraphs describes a set of three objects arranged in a fixed order.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 40,
+            "before": "The statements in each paragraph are logically consistent.",
+            "after": "Each paragraph contains statements that are logically consistent.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 41,
+            "before": "A logical deduction task which requires deducing the order of a sequence of objects.",
+            "after": "A logical deduction task that involves determining the order of a sequence of objects.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 42,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "The following paragraphs each describe a fixed arrangement of five objects.",
+            "score_change": -0.02380952380952378
+        },
+        {
+            "Epoch": 43,
+            "before": "Logically consistent statements are found within each paragraph.",
+            "after": "Each paragraph contains logically consistent statements.",
+            "score_change": 0.007936507936507908
+        },
+        {
+            "Epoch": 44,
+            "before": "Each paragraph contains logically consistent statements.",
+            "after": "The statements in each paragraph are logically consistent.",
+            "score_change": 0.02380952380952389
+        },
+        {
+            "Epoch": 45,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": 0.0
+        },
+        {
+            "Epoch": 46,
+            "before": "A logical deduction task which requires deducing the order of a sequence of objects.",
+            "after": "A logical deduction task that requires determining the order of a sequence of objects.",
+            "score_change": -0.00793650793650802
+        },
+        {
+            "Epoch": 47,
+            "before": "Each paragraph below describes a fixed arrangement of five objects.",
+            "after": "Below, each paragraph describes a fixed arrangement of five objects.",
+            "score_change": -0.007936507936507908
+        },
+        {
+            "Epoch": 48,
+            "before": "Each paragraph below describes a fixed arrangement of three objects.",
+            "after": "Each paragraph below describes a fixed arrangement of three objects.",
+            "score_change": -0.007936507936507964
+        },
+        {
+            "Epoch": 49,
+            "before": "The statements are logically consistent within each paragraph.",
+            "after": "Logically consistent statements are found within each paragraph.",
+            "score_change": 0.0317460317460318
+        },
+        {
+            "Epoch": 50,
+            "before": "Logically consistent statements are found within each paragraph.",
+            "after": "Each paragraph contains logically consistent statements.",
+            "score_change": -0.015873015873015928
+        }
+    ]
+}

@@ -1,0 +1,1692 @@
+1 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences with ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that contain ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+2 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+3 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences that include ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+4 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+5 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original and rephrased sentences are identical in this case, as they are already clear and concise.)
+--------------------------------------------------------------------------------------------------------------
+6 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but the secretary has not replied yet.
+--------------------------------------------------------------------------------------------------------------
+7 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences containing ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+8 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+9 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+
+ 
+ responce:
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+--------------------------------------------------------------------------------------------------------------
+10 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at their office.
+--------------------------------------------------------------------------------------------------------------
+11 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at their office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at their office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+12 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at their office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at their office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+--------------------------------------------------------------------------------------------------------------
+13 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey intends to meet the director in the director's office.
+--------------------------------------------------------------------------------------------------------------
+14 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+15 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+--------------------------------------------------------------------------------------------------------------
+16 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but the secretary has not replied yet.
+--------------------------------------------------------------------------------------------------------------
+17 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+18 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</rephrased>
+<original>
+Bailey plans to meet the director at their office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. However, if you want a slight variation, you could say: 
+Bailey plans to meet the director at the office where the director works.)
+--------------------------------------------------------------------------------------------------------------
+19 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+20 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at their office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. However, if you want a slight variation, you could say: 
+Bailey plans to meet the director at the office where the director works.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. No rephrasing is necessary in this case.)
+--------------------------------------------------------------------------------------------------------------
+21 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+22 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+
+ 
+ responce:
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+--------------------------------------------------------------------------------------------------------------
+23 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+Bailey intends to meet the director in the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. No rephrasing is necessary in this case.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director in the director's office.
+--------------------------------------------------------------------------------------------------------------
+24 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director in the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director in the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+25 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but the secretary has not yet replied.
+--------------------------------------------------------------------------------------------------------------
+26 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but the secretary has not yet replied.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief told the counselor that they took the day off.
+
+(Note: The original sentence is clear, but to enhance clarity for a language model, we can specify the pronoun's reference more explicitly.)
+
+<rephrased>
+The chief told the counselor that he or she took the day off.
+--------------------------------------------------------------------------------------------------------------
+27 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but he didn't reply yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not yet replied.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+
+ 
+ responce:
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+--------------------------------------------------------------------------------------------------------------
+28 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+<original>
+Bailey plans to meet the director at their office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+29 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+
+(Note: The original sentence is clear, but to enhance clarity for a language model, we can specify the pronoun's reference more explicitly.)
+
+<rephrased>
+The chief told the counselor that he or she took the day off.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not replied yet.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+
+(Note: The original sentence is clear, but to enhance clarity for a language model, we can specify the pronoun's reference more explicitly.)
+
+<rephrased>
+Bailey plans to meet the director at the office that belongs to the director.
+</rephrased>
+--------------------------------------------------------------------------------------------------------------
+30 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+
+(Note: The original sentence is clear, but to enhance clarity for a language model, we can specify the pronoun's reference more explicitly.)
+
+<rephrased>
+The chief told the counselor that he or she took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief told the counselor that the person took the day off.
+--------------------------------------------------------------------------------------------------------------
+31 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+Bailey intends to meet the director in the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. No rephrasing is necessary in this case.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. However, if you want a slight variation, you could say: 
+Bailey plans to meet the director at the office where the director works.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that the person took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that the person had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+32 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the director's office.
+
+(Note: The original sentence is clear, but to enhance clarity for a language model, we can specify the pronoun's reference more explicitly.)
+
+<rephrased>
+Bailey plans to meet the director at the office that belongs to the director.
+
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at their office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief informed the counselor that the person had taken the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that the person had taken a day off.
+
+(Note: The rephrased sentence maintains the original meaning while using a more standard phrasing for taking "the day off.")
+--------------------------------------------------------------------------------------------------------------
+33 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+
+(Note: The original sentence is clear, but to enhance clarity for a language model, we can specify the pronoun's reference more explicitly.)
+
+<rephrased>
+The chief told the counselor that he or she took the day off.
+</original>
+<rephrased>
+The chief told the counselor that the person took the day off.
+</rephrased>
+<original>
+The chief informed the counselor that the person had taken a day off.
+
+(Note: The rephrased sentence maintains the original meaning while using a more standard phrasing for taking "the day off.")
+</original>
+<rephrased>
+The chief informed the counselor that the person had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief informed the counselor that the person had taken a day off.
+
+(Note: The rephrased sentence maintains the original meaning while using a more standard phrasing for taking "the day off.")
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that the person had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+34 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not yet replied.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+35 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director in the director's office.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+36 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at their office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+
+(Note: The original sentence is already clear and does not require rephrasing. However, if you want to avoid the ambiguous pronoun "they," you could specify the gender or use a different pronoun. Here is an alternative:
+
+The chief informed the counselor that he/she had taken the day off.)
+
+For the purpose of enhancing language model performance, specifying the gender can help disambiguate the pronoun. If no specific gender is known, the original sentence is fine.
+--------------------------------------------------------------------------------------------------------------
+37 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief informed the counselor that they had taken the day off.
+
+(Note: The original sentence is already clear and does not require rephrasing. However, if you want to avoid the ambiguous pronoun "they," you could specify the gender or use a different pronoun. Here is an alternative:
+
+The chief informed the counselor that he/she had taken the day off.)
+
+For the purpose of enhancing language model performance, specifying the gender can help disambiguate the pronoun. If no specific gender is known, the original sentence is fine.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that the person had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+38 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief informed the counselor that the person had taken a day off.
+
+(Note: The rephrased sentence maintains the original meaning while using a more standard phrasing for taking "the day off.")
+</original>
+<rephrased>
+The chief informed the counselor that the person had taken the day off.
+</rephrased>
+<original>
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief informed the counselor that the person had taken the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that the person took the day off.
+--------------------------------------------------------------------------------------------------------------
+39 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. No rephrasing is necessary in this case.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+Bailey plans to meet the director at their office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+40 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences containing ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+41 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+
+ 
+ responce:
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+--------------------------------------------------------------------------------------------------------------
+42 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief informed the counselor that the person had taken the day off.
+</original>
+<rephrased>
+The chief informed the counselor that the person took the day off.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+43 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The manager sent a message to the secretary, but the secretary has not yet replied.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+<original>
+Bailey will plan to meet the director at his office.
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and does not require rephrasing for clarity.)
+--------------------------------------------------------------------------------------------------------------
+44 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. However, if you want a slight variation, you could say: 
+Bailey plans to meet the director at the office where the director works.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief informed the counselor that the person had taken a day off.
+
+(Note: The rephrased sentence maintains the original meaning while using a more standard phrasing for taking "the day off.")
+</original>
+<rephrased>
+The chief informed the counselor that the person had taken the day off.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+
+(Note: The original sentence is already clear and does not require rephrasing. However, if you want to avoid the ambiguous pronoun "they," you could specify the gender or use a different pronoun. Here is an alternative:
+
+The chief informed the counselor that he/she had taken the day off.)
+
+For the purpose of enhancing language model performance, specifying the gender can help disambiguate the pronoun. If no specific gender is known, the original sentence is fine.
+</original>
+<rephrased>
+The chief informed the counselor that the person had taken the day off.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and does not require rephrasing for clarity.)
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
+45 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</original>
+<rephrased>
+
+ 
+ responce:
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is ambiguous.
+--------------------------------------------------------------------------------------------------------------
+46 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+The manager sent a message to the secretary, but the secretary has not yet replied.
+</original>
+<rephrased>
+The manager sent a message to the secretary, but the secretary has still not replied yet.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director at the director's office. (This sentence is clear and doesn't require rephrasing.)
+
+In this case, the original sentence is already clear and concise, so no rephrasing is necessary to improve its understandability for a language model.
+--------------------------------------------------------------------------------------------------------------
+47 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+Bailey intends to meet the director in the director's office.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office. (This sentence is clear and doesn't require rephrasing.)
+
+In this case, the original sentence is already clear and concise, so no rephrasing is necessary to improve its understandability for a language model.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey plans to meet the director in the director's office. This sentence is clear and concise, so no rephrasing is necessary to improve its understandability for a language model.
+--------------------------------------------------------------------------------------------------------------
+48 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+Clarify the meaning of sentences that include ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+<original>
+Clarify the meaning of sentences containing ambiguous pronouns.
+</original>
+<rephrased>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Clarify the meaning of sentences that contain ambiguous pronouns.
+</original>
+<rephrased>
+
+ 
+ responce:
+Clarify the meaning of sentences containing ambiguous pronouns.
+--------------------------------------------------------------------------------------------------------------
+49 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+The chief informed the counselor that they had taken the day off.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office. 
+
+(Note: The original sentence is already clear and concise. No rephrasing is necessary in this case.)
+</original>
+<rephrased>
+Bailey plans to meet the director at the director's office.
+</rephrased>
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+The chief told the counselor that they took the day off.
+</original>
+<rephrased>
+
+ 
+ responce:
+The chief informed the counselor that they had taken the day off.
+--------------------------------------------------------------------------------------------------------------
+50 / 50 
+ system prompt:
+You are a professional sentence rephraser. Your job is to take a given sentence, and produce a new sentence that is easier for language models to understand.
+Here are some examples of how rephrasing a sentence can improve the performance of a language model:
+<original>
+The chief informed the counselor that they had taken the day off.
+</original>
+<rephrased>
+The chief told the counselor that they took the day off.
+</rephrased>
+<original>
+Bailey plans to meet the director at the director's office.  
+(Note: The original sentence is already clear and concise, so no rephrasing is necessary to enhance understanding for a language model.)
+</original>
+<rephrased>
+Bailey intends to meet the director in the director's office.
+</rephrased>
+<original>
+In the next sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is unclear.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+<original>
+In the subsequent sentences, identify the antecedent of each pronoun (the noun it refers to), or indicate if it is ambiguous.
+</original>
+<rephrased>
+In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+</rephrased>
+
+
+ user prompt:
+
+Rephrase the next sentence to enhance the language model's performance.
+<original>
+Bailey plans to meet the director at the director's office.
+</original>
+<rephrased>
+
+ 
+ responce:
+Bailey intends to meet the director at the director's office.
+--------------------------------------------------------------------------------------------------------------
